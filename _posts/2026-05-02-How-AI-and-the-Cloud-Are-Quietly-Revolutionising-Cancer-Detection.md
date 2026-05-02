@@ -10,7 +10,7 @@ mathjax: true
 author: Johanna Albers
 ---
 
-![caption](/assets/img/AI_cancer.jpg){: .mx-auto.d-block :}
+![caption](/images/AI_cancer.jpg){: .mx-auto.d-block :}
 
 Nearly ten million people die from cancer every year. Yet for a disease so formidable, one of the most critical determinants of survival remains stubbornly simple: how early it is found. A new study published in the Multidisciplinary Innovations & Research Analysis journal argues that the answer to catching cancer sooner lies not in any single test, but in the intelligent fusion of data streams — and the cloud infrastructure to process them in real time.
 
