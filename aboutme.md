@@ -4,14 +4,13 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+My name is Johanna Albers, I am a Biomedical Scientist and on my waz to become a Health Data Scientist. Have a look at my background below!
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Bachelor in Biology at the University of Muenster, Germany (2018 - 2022)
+- Master in Biomedicine at the University of Muenster, Germany (2022 - 2025)
+- Master in Health Data Science at the URV, Spain (since 2025)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- Research assistant at the CRG, in Barcelona, Spain (2024 - 2025)
