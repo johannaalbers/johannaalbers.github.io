@@ -10,14 +10,20 @@ You can see the code behind my projects on [GitHub](https://github.com/johannaal
 
 ### Education
 
-- MSc Health Data Science, Universitat Rovira i Virgili, Spain (2025 to 2027)
-- MSc Biomedicine, University of Münster, Germany (2022 to 2025)
-- BSc Biology, University of Münster, Germany (2018 to 2022)
+- **MSc Health Data Science**, Universitat Rovira i Virgili, Spain (09/2025 to 11/2027)
+- **MSc Molecular Biomedicine**, University of Münster, Germany (10/2022 to 08/2025)
+- **BSc Bioscience**, University of Münster, Germany (10/2019 to 08/2022)
 
 ### Experience
 
-- Marketing Manager, B&F Oberwerth (current)
-- Research assistant, Centre for Genomic Regulation (CRG), Barcelona (2024 to 2025)
+- **Marketing Manager** (working student), B&F Oberwerth GmbH & Co. KG, Germany (08/2024 to present)
+- **Junior Scientist**, Centre for Genomic Regulation (CRG), Barcelona, Spain (09/2024 to 03/2025)
+- **Junior Scientist**, University of Münster, Germany (02/2021 to 12/2023)
+
+### Honours
+
+- Studienstiftung des Deutschen Volkes scholarship, since 2021
+- ERASMUS Fellowship, 2025
 
 ### What I work with
 
@@ -29,7 +35,7 @@ You can see the code behind my projects on [GitHub](https://github.com/johannaal
 
 ### Languages
 
-German, English, Spanish.
+German (native), English (C1), Spanish (B2).
 
 ### Get in touch
 
