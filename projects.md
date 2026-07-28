@@ -18,6 +18,21 @@ Higher lactate was strongly associated with ICU death (OR 2.82, 95% CI 2.66 to 2
 
 ---
 
+### When a classifier learns the speaker, not the disease
+
+The UCI Parkinsons dataset is usually described as 195 observations. It is not:
+it is 195 voice recordings from 32 people, six or seven each. A random
+train/test split therefore places the same voice on both sides, and the model
+can recognise the speaker instead of the disease.
+
+Measured across 100 repeated splits, subject-aware splitting drops AUC from 0.93
+to 0.80 and specificity from 0.44 to 0.34. Predicting Parkinson's for everyone
+already gives 0.75 accuracy, so the honest model beats guessing by two points.
+
+*Python, scikit-learn.* [Repository](https://github.com/johannaalbers/parkinsons-disease-classification)
+
+---
+
 ### Extracting heart failure signals from clinical notes
 
 Ejection fraction, the single most important number in heart failure, usually lives in free text rather than in a structured database field. This project pulls it out of discharge summaries and echocardiogram reports in MIMIC-III using regular expressions.
